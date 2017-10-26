@@ -3,9 +3,9 @@ body {
 }
 
 header {
-  background: url(https://images.unsplash.com/photo-1505049488252-98deecff80fd?w=1350&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D) center / cover;
+  background: url('../images/larm-rmah-273854.jpg') center / cover;
   height: 60vh;
-  justify-content: center;
+  justify-content: bottom;
   text-align: center;
 }
 
@@ -50,5 +50,3 @@ footer.mdl-mini-footer {
       display: flex;
     }
   }
-
-  
